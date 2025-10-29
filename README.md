@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PlataformaDeComercioElectronico
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.8.
@@ -57,3 +58,7 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# Plataforma-de-Comercio-Electr-nico-e-commerce-
+Proyecto para una aplicación que permita comprar y vender productos o servicios por internet.
+>>>>>>> 706d2dcbf966430ebbeb0372d589ccdd4fd109d0
